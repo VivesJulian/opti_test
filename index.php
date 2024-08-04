@@ -21,7 +21,8 @@
 
     <div class="container">
         <div class="col-md-3">
-            <button type="button" class="btn btn-primary">Primary</button>
+            
+            <button type="button" class="btn btn-primary">Reoad data</button>
         </div>
         
         
@@ -37,21 +38,25 @@
             </thead>
             <tbody>
                 <tr>
-                <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Otto</td>
-                <td>@mdo</td>
+                <th scope="row">02.08.2024</th>
+                <td>0.748104</td>
+                <td>1</td>
+                <td>93.242464</td>
+                <td>0.644426</td>
                 </tr>
                 <tr>
-                <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Thornton</td>
-                <td>@fat</td>
+                <th scope="row">01.08.2024</th>
+                <td>0.748104</td>
+                <td>1</td>
+                <td>93.243364</td>
+                <td>0.644426</td>
                 </tr>
                 <tr>
-                <th scope="row">3</th>
-                <td colspan="2">Larry the Bird</td>
-                <td>@twitter</td>
+                <th scope="row">31.07.2024</th>
+                <td>0.748174</td>
+                <td>1</td>
+                <td>93.245464</td>
+                <td>0.644786</td>
                 </tr>
             </tbody>
         </table>
